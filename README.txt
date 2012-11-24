@@ -5,7 +5,9 @@ Requires pyOSC
 http://gitorious.org/pyosc
 Python 2
 
-To Install pyOSC
+Contained as a SubModule
+
+OR To Install pyOSC
 Clone
 https://git.gitorious.org/pyosc/devel.git
 

@@ -16,8 +16,8 @@ import time, threading
 
 
 
-# tupple with ip, port.
-receive_address = 'shrpi', 10000
+# tupple with ip, port. EDIT REQUIRED HERE!!!!!!! ADD YOUR OWN DOMAIN NAME OR IP!!!!!
+receive_address = 'shrpi.remote.local', 10000
 
 # OSC Server. 
 s = OSC.OSCServer(receive_address) # basic
